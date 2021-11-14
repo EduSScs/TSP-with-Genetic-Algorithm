@@ -1,0 +1,1615 @@
+Crossover Method: UOX with bitmask 
+Tournament Size: 5
+Generation Size: 60
+Number of generations: 400
+Crossover Rate: 90.0% 
+Mutation Rate: 10.0% 
+Number of Elites: 6
+Random Seed: 345
+
+
+
+Generation 1 best chromosome has a length of 1486.0866045633575
+Generation 1 chromosomes have an average length of 1665.6320732677427
+
+
+Generation 2 best chromosome has a length of 1441.5301728611882
+Generation 2 chromosomes have an average length of 1630.7693845234303
+
+
+Generation 3 best chromosome has a length of 1441.5301728611882
+Generation 3 chromosomes have an average length of 1600.9322366063207
+
+
+Generation 4 best chromosome has a length of 1441.5301728611882
+Generation 4 chromosomes have an average length of 1590.020087982098
+
+
+Generation 5 best chromosome has a length of 1368.9402585680727
+Generation 5 chromosomes have an average length of 1582.1144731698037
+
+
+Generation 6 best chromosome has a length of 1362.1225295369602
+Generation 6 chromosomes have an average length of 1571.0684706284417
+
+
+Generation 7 best chromosome has a length of 1362.1225295369602
+Generation 7 chromosomes have an average length of 1567.6588165509975
+
+
+Generation 8 best chromosome has a length of 1362.1225295369602
+Generation 8 chromosomes have an average length of 1554.8199716639626
+
+
+Generation 9 best chromosome has a length of 1362.1225295369602
+Generation 9 chromosomes have an average length of 1526.0924283878046
+
+
+Generation 10 best chromosome has a length of 1297.7361773156802
+Generation 10 chromosomes have an average length of 1510.7790066917082
+
+
+Generation 11 best chromosome has a length of 1297.7361773156802
+Generation 11 chromosomes have an average length of 1509.3528827634668
+
+
+Generation 12 best chromosome has a length of 1297.7361773156802
+Generation 12 chromosomes have an average length of 1523.5797757774233
+
+
+Generation 13 best chromosome has a length of 1297.7361773156802
+Generation 13 chromosomes have an average length of 1520.7132952175
+
+
+Generation 14 best chromosome has a length of 1297.7361773156802
+Generation 14 chromosomes have an average length of 1540.981740262472
+
+
+Generation 15 best chromosome has a length of 1297.7361773156802
+Generation 15 chromosomes have an average length of 1509.2105391543464
+
+
+Generation 16 best chromosome has a length of 1297.7361773156802
+Generation 16 chromosomes have an average length of 1529.6124306761842
+
+
+Generation 17 best chromosome has a length of 1297.7361773156802
+Generation 17 chromosomes have an average length of 1521.4636068152138
+
+
+Generation 18 best chromosome has a length of 1274.6857233540586
+Generation 18 chromosomes have an average length of 1518.7011945971408
+
+
+Generation 19 best chromosome has a length of 1274.6857233540586
+Generation 19 chromosomes have an average length of 1478.2324858410047
+
+
+Generation 20 best chromosome has a length of 1274.6857233540586
+Generation 20 chromosomes have an average length of 1483.8305310553915
+
+
+Generation 21 best chromosome has a length of 1274.6857233540586
+Generation 21 chromosomes have an average length of 1456.4571180568732
+
+
+Generation 22 best chromosome has a length of 1274.6857233540586
+Generation 22 chromosomes have an average length of 1448.450289110681
+
+
+Generation 23 best chromosome has a length of 1274.6857233540586
+Generation 23 chromosomes have an average length of 1401.4795602984168
+
+
+Generation 24 best chromosome has a length of 1274.6857233540586
+Generation 24 chromosomes have an average length of 1439.3020096858563
+
+
+Generation 25 best chromosome has a length of 1274.6857233540586
+Generation 25 chromosomes have an average length of 1429.395282944836
+
+
+Generation 26 best chromosome has a length of 1269.3399386436322
+Generation 26 chromosomes have an average length of 1439.4657485424739
+
+
+Generation 27 best chromosome has a length of 1269.3399386436322
+Generation 27 chromosomes have an average length of 1414.889929344627
+
+
+Generation 28 best chromosome has a length of 1269.3399386436322
+Generation 28 chromosomes have an average length of 1468.246793188838
+
+
+Generation 29 best chromosome has a length of 1269.3399386436322
+Generation 29 chromosomes have an average length of 1436.2643536817827
+
+
+Generation 30 best chromosome has a length of 1256.205283093227
+Generation 30 chromosomes have an average length of 1408.3499229723152
+
+
+Generation 31 best chromosome has a length of 1256.205283093227
+Generation 31 chromosomes have an average length of 1395.3511113202087
+
+
+Generation 32 best chromosome has a length of 1256.205283093227
+Generation 32 chromosomes have an average length of 1386.0978549870865
+
+
+Generation 33 best chromosome has a length of 1256.205283093227
+Generation 33 chromosomes have an average length of 1419.6125881814792
+
+
+Generation 34 best chromosome has a length of 1256.205283093227
+Generation 34 chromosomes have an average length of 1403.3577250396945
+
+
+Generation 35 best chromosome has a length of 1216.273136521973
+Generation 35 chromosomes have an average length of 1372.1808126337983
+
+
+Generation 36 best chromosome has a length of 1123.6520094843338
+Generation 36 chromosomes have an average length of 1378.5846924715327
+
+
+Generation 37 best chromosome has a length of 1123.6520094843338
+Generation 37 chromosomes have an average length of 1345.540110321268
+
+
+Generation 38 best chromosome has a length of 1123.6520094843338
+Generation 38 chromosomes have an average length of 1380.6627377969176
+
+
+Generation 39 best chromosome has a length of 1123.6520094843338
+Generation 39 chromosomes have an average length of 1397.1270962889582
+
+
+Generation 40 best chromosome has a length of 1123.6520094843338
+Generation 40 chromosomes have an average length of 1380.430210364805
+
+
+Generation 41 best chromosome has a length of 1123.6520094843338
+Generation 41 chromosomes have an average length of 1367.903582027636
+
+
+Generation 42 best chromosome has a length of 1123.6520094843338
+Generation 42 chromosomes have an average length of 1312.2569792467868
+
+
+Generation 43 best chromosome has a length of 1123.6520094843338
+Generation 43 chromosomes have an average length of 1313.7250183361045
+
+
+Generation 44 best chromosome has a length of 1123.6520094843338
+Generation 44 chromosomes have an average length of 1316.7391941390595
+
+
+Generation 45 best chromosome has a length of 1123.6520094843338
+Generation 45 chromosomes have an average length of 1301.665217475678
+
+
+Generation 46 best chromosome has a length of 1123.6520094843338
+Generation 46 chromosomes have an average length of 1283.3231301397466
+
+
+Generation 47 best chromosome has a length of 1123.6520094843338
+Generation 47 chromosomes have an average length of 1281.695172783838
+
+
+Generation 48 best chromosome has a length of 1123.6520094843338
+Generation 48 chromosomes have an average length of 1309.2326749362944
+
+
+Generation 49 best chromosome has a length of 1123.6520094843338
+Generation 49 chromosomes have an average length of 1287.187024534946
+
+
+Generation 50 best chromosome has a length of 1123.6520094843338
+Generation 50 chromosomes have an average length of 1263.005554819343
+
+
+Generation 51 best chromosome has a length of 1123.6520094843338
+Generation 51 chromosomes have an average length of 1266.253900325794
+
+
+Generation 52 best chromosome has a length of 1123.6520094843338
+Generation 52 chromosomes have an average length of 1219.663796421872
+
+
+Generation 53 best chromosome has a length of 1123.6520094843338
+Generation 53 chromosomes have an average length of 1240.7886594537279
+
+
+Generation 54 best chromosome has a length of 1123.6520094843338
+Generation 54 chromosomes have an average length of 1228.6288971878823
+
+
+Generation 55 best chromosome has a length of 1123.6520094843338
+Generation 55 chromosomes have an average length of 1207.9209223689272
+
+
+Generation 56 best chromosome has a length of 1122.2354609103882
+Generation 56 chromosomes have an average length of 1213.7429347819198
+
+
+Generation 57 best chromosome has a length of 1122.2354609103882
+Generation 57 chromosomes have an average length of 1206.125831268526
+
+
+Generation 58 best chromosome has a length of 1110.0765722861763
+Generation 58 chromosomes have an average length of 1223.0765247077927
+
+
+Generation 59 best chromosome has a length of 1110.0765722861763
+Generation 59 chromosomes have an average length of 1213.0935266580811
+
+
+Generation 60 best chromosome has a length of 1110.0765722861763
+Generation 60 chromosomes have an average length of 1197.2671654472342
+
+
+Generation 61 best chromosome has a length of 1110.0765722861763
+Generation 61 chromosomes have an average length of 1182.682504851721
+
+
+Generation 62 best chromosome has a length of 1108.7589495370842
+Generation 62 chromosomes have an average length of 1183.1999776463126
+
+
+Generation 63 best chromosome has a length of 1092.673651900292
+Generation 63 chromosomes have an average length of 1186.7257496643622
+
+
+Generation 64 best chromosome has a length of 1078.796719459269
+Generation 64 chromosomes have an average length of 1181.0523166029
+
+
+Generation 65 best chromosome has a length of 1078.796719459269
+Generation 65 chromosomes have an average length of 1164.5632365898446
+
+
+Generation 66 best chromosome has a length of 1043.481146126218
+Generation 66 chromosomes have an average length of 1151.5772833678384
+
+
+Generation 67 best chromosome has a length of 1036.26896348394
+Generation 67 chromosomes have an average length of 1157.1468315466996
+
+
+Generation 68 best chromosome has a length of 1036.26896348394
+Generation 68 chromosomes have an average length of 1150.5226781215456
+
+
+Generation 69 best chromosome has a length of 1036.26896348394
+Generation 69 chromosomes have an average length of 1146.529916025282
+
+
+Generation 70 best chromosome has a length of 1036.26896348394
+Generation 70 chromosomes have an average length of 1151.4417167096321
+
+
+Generation 71 best chromosome has a length of 1036.26896348394
+Generation 71 chromosomes have an average length of 1125.7733964571962
+
+
+Generation 72 best chromosome has a length of 1036.26896348394
+Generation 72 chromosomes have an average length of 1121.1974929184598
+
+
+Generation 73 best chromosome has a length of 1036.26896348394
+Generation 73 chromosomes have an average length of 1115.4257707916966
+
+
+Generation 74 best chromosome has a length of 1030.792762058174
+Generation 74 chromosomes have an average length of 1116.2359847095925
+
+
+Generation 75 best chromosome has a length of 1030.792762058174
+Generation 75 chromosomes have an average length of 1085.1603745005523
+
+
+Generation 76 best chromosome has a length of 1024.4363163395171
+Generation 76 chromosomes have an average length of 1088.7433117137373
+
+
+Generation 77 best chromosome has a length of 997.7721661713936
+Generation 77 chromosomes have an average length of 1077.5016898380704
+
+
+Generation 78 best chromosome has a length of 997.7721661713936
+Generation 78 chromosomes have an average length of 1062.6238009933622
+
+
+Generation 79 best chromosome has a length of 985.7179597591927
+Generation 79 chromosomes have an average length of 1062.4776128080114
+
+
+Generation 80 best chromosome has a length of 985.7179597591927
+Generation 80 chromosomes have an average length of 1030.4077247485357
+
+
+Generation 81 best chromosome has a length of 966.4429303564128
+Generation 81 chromosomes have an average length of 1041.1503951181498
+
+
+Generation 82 best chromosome has a length of 963.1123514361494
+Generation 82 chromosomes have an average length of 1025.9820969264517
+
+
+Generation 83 best chromosome has a length of 963.1123514361494
+Generation 83 chromosomes have an average length of 1039.935271366827
+
+
+Generation 84 best chromosome has a length of 963.1123514361494
+Generation 84 chromosomes have an average length of 1026.8587455135532
+
+
+Generation 85 best chromosome has a length of 961.2738452142124
+Generation 85 chromosomes have an average length of 1010.0838555344033
+
+
+Generation 86 best chromosome has a length of 961.0522536457089
+Generation 86 chromosomes have an average length of 988.732525708711
+
+
+Generation 87 best chromosome has a length of 961.0522536457089
+Generation 87 chromosomes have an average length of 987.4211383538409
+
+
+Generation 88 best chromosome has a length of 961.0522536457089
+Generation 88 chromosomes have an average length of 978.5572303943891
+
+
+Generation 89 best chromosome has a length of 961.0522536457089
+Generation 89 chromosomes have an average length of 978.2661684794456
+
+
+Generation 90 best chromosome has a length of 961.0522536457089
+Generation 90 chromosomes have an average length of 981.4774271951823
+
+
+Generation 91 best chromosome has a length of 960.4928123332203
+Generation 91 chromosomes have an average length of 987.038645767928
+
+
+Generation 92 best chromosome has a length of 950.1860735921389
+Generation 92 chromosomes have an average length of 984.863965595927
+
+
+Generation 93 best chromosome has a length of 950.1860735921389
+Generation 93 chromosomes have an average length of 983.7943781118066
+
+
+Generation 94 best chromosome has a length of 950.1860735921389
+Generation 94 chromosomes have an average length of 970.7118846272874
+
+
+Generation 95 best chromosome has a length of 950.1860735921389
+Generation 95 chromosomes have an average length of 971.1935124900881
+
+
+Generation 96 best chromosome has a length of 950.1860735921389
+Generation 96 chromosomes have an average length of 973.7465673159727
+
+
+Generation 97 best chromosome has a length of 950.1860735921389
+Generation 97 chromosomes have an average length of 978.8618302673297
+
+
+Generation 98 best chromosome has a length of 950.1860735921389
+Generation 98 chromosomes have an average length of 962.91247727952
+
+
+Generation 99 best chromosome has a length of 950.1860735921389
+Generation 99 chromosomes have an average length of 976.5144538210055
+
+
+Generation 100 best chromosome has a length of 950.1860735921389
+Generation 100 chromosomes have an average length of 977.0644025428459
+
+
+Generation 101 best chromosome has a length of 950.1860735921389
+Generation 101 chromosomes have an average length of 969.6935007773282
+
+
+Generation 102 best chromosome has a length of 950.1860735921389
+Generation 102 chromosomes have an average length of 982.2211784753741
+
+
+Generation 103 best chromosome has a length of 950.1860735921389
+Generation 103 chromosomes have an average length of 982.1589800510253
+
+
+Generation 104 best chromosome has a length of 927.4016460830682
+Generation 104 chromosomes have an average length of 972.4125526186903
+
+
+Generation 105 best chromosome has a length of 927.4016460830682
+Generation 105 chromosomes have an average length of 978.5228554181815
+
+
+Generation 106 best chromosome has a length of 927.4016460830682
+Generation 106 chromosomes have an average length of 971.802942449442
+
+
+Generation 107 best chromosome has a length of 927.4016460830682
+Generation 107 chromosomes have an average length of 968.4691426279053
+
+
+Generation 108 best chromosome has a length of 927.4016460830682
+Generation 108 chromosomes have an average length of 976.6864514058027
+
+
+Generation 109 best chromosome has a length of 925.2670036412302
+Generation 109 chromosomes have an average length of 989.0852727617241
+
+
+Generation 110 best chromosome has a length of 925.2670036412302
+Generation 110 chromosomes have an average length of 969.6506893349404
+
+
+Generation 111 best chromosome has a length of 925.2670036412302
+Generation 111 chromosomes have an average length of 977.4437116406194
+
+
+Generation 112 best chromosome has a length of 925.2670036412302
+Generation 112 chromosomes have an average length of 972.5334427865091
+
+
+Generation 113 best chromosome has a length of 925.2670036412302
+Generation 113 chromosomes have an average length of 968.6523355506815
+
+
+Generation 114 best chromosome has a length of 925.2670036412302
+Generation 114 chromosomes have an average length of 973.159948419334
+
+
+Generation 115 best chromosome has a length of 925.2670036412302
+Generation 115 chromosomes have an average length of 980.3135374431477
+
+
+Generation 116 best chromosome has a length of 925.2670036412302
+Generation 116 chromosomes have an average length of 983.5839308801966
+
+
+Generation 117 best chromosome has a length of 925.2670036412302
+Generation 117 chromosomes have an average length of 993.1920644052203
+
+
+Generation 118 best chromosome has a length of 925.2670036412302
+Generation 118 chromosomes have an average length of 971.0353565491713
+
+
+Generation 119 best chromosome has a length of 925.2670036412302
+Generation 119 chromosomes have an average length of 972.5586629669571
+
+
+Generation 120 best chromosome has a length of 925.2670036412302
+Generation 120 chromosomes have an average length of 976.0162606026116
+
+
+Generation 121 best chromosome has a length of 925.2670036412302
+Generation 121 chromosomes have an average length of 958.7121711198129
+
+
+Generation 122 best chromosome has a length of 925.2670036412302
+Generation 122 chromosomes have an average length of 965.8222521023072
+
+
+Generation 123 best chromosome has a length of 925.2670036412302
+Generation 123 chromosomes have an average length of 959.1140773713178
+
+
+Generation 124 best chromosome has a length of 925.2670036412302
+Generation 124 chromosomes have an average length of 967.5808728732266
+
+
+Generation 125 best chromosome has a length of 925.2670036412302
+Generation 125 chromosomes have an average length of 962.6927475608984
+
+
+Generation 126 best chromosome has a length of 925.2670036412302
+Generation 126 chromosomes have an average length of 965.7901311698
+
+
+Generation 127 best chromosome has a length of 925.2670036412302
+Generation 127 chromosomes have an average length of 962.0707250681036
+
+
+Generation 128 best chromosome has a length of 925.2670036412302
+Generation 128 chromosomes have an average length of 976.6815875183404
+
+
+Generation 129 best chromosome has a length of 925.2670036412302
+Generation 129 chromosomes have an average length of 963.0614685068327
+
+
+Generation 130 best chromosome has a length of 925.2670036412302
+Generation 130 chromosomes have an average length of 964.3607849315473
+
+
+Generation 131 best chromosome has a length of 925.2670036412302
+Generation 131 chromosomes have an average length of 974.0827308419699
+
+
+Generation 132 best chromosome has a length of 925.2670036412302
+Generation 132 chromosomes have an average length of 967.4622300650343
+
+
+Generation 133 best chromosome has a length of 925.2670036412302
+Generation 133 chromosomes have an average length of 966.1258507671006
+
+
+Generation 134 best chromosome has a length of 925.2670036412302
+Generation 134 chromosomes have an average length of 970.1917492841585
+
+
+Generation 135 best chromosome has a length of 925.2670036412302
+Generation 135 chromosomes have an average length of 989.507866024372
+
+
+Generation 136 best chromosome has a length of 925.2670036412302
+Generation 136 chromosomes have an average length of 961.878400865835
+
+
+Generation 137 best chromosome has a length of 925.2670036412302
+Generation 137 chromosomes have an average length of 969.5846066390995
+
+
+Generation 138 best chromosome has a length of 925.2670036412302
+Generation 138 chromosomes have an average length of 985.1304479179063
+
+
+Generation 139 best chromosome has a length of 925.2670036412302
+Generation 139 chromosomes have an average length of 974.0072267206792
+
+
+Generation 140 best chromosome has a length of 925.2670036412302
+Generation 140 chromosomes have an average length of 970.6925552369428
+
+
+Generation 141 best chromosome has a length of 925.2670036412302
+Generation 141 chromosomes have an average length of 989.1518988063953
+
+
+Generation 142 best chromosome has a length of 925.2670036412302
+Generation 142 chromosomes have an average length of 1022.201969902006
+
+
+Generation 143 best chromosome has a length of 925.2670036412302
+Generation 143 chromosomes have an average length of 1000.2572031562802
+
+
+Generation 144 best chromosome has a length of 925.2670036412302
+Generation 144 chromosomes have an average length of 969.153554457668
+
+
+Generation 145 best chromosome has a length of 925.2670036412302
+Generation 145 chromosomes have an average length of 976.7239554921283
+
+
+Generation 146 best chromosome has a length of 925.2670036412302
+Generation 146 chromosomes have an average length of 964.8416397868675
+
+
+Generation 147 best chromosome has a length of 925.2670036412302
+Generation 147 chromosomes have an average length of 958.8696104195129
+
+
+Generation 148 best chromosome has a length of 925.2670036412302
+Generation 148 chromosomes have an average length of 960.5266400919079
+
+
+Generation 149 best chromosome has a length of 925.2670036412302
+Generation 149 chromosomes have an average length of 967.7181270041793
+
+
+Generation 150 best chromosome has a length of 925.2670036412302
+Generation 150 chromosomes have an average length of 969.6226423101863
+
+
+Generation 151 best chromosome has a length of 925.2670036412302
+Generation 151 chromosomes have an average length of 1007.6696760583156
+
+
+Generation 152 best chromosome has a length of 925.2670036412302
+Generation 152 chromosomes have an average length of 1034.0907444498328
+
+
+Generation 153 best chromosome has a length of 925.2670036412302
+Generation 153 chromosomes have an average length of 995.4649180077015
+
+
+Generation 154 best chromosome has a length of 925.2670036412302
+Generation 154 chromosomes have an average length of 1001.05998643747
+
+
+Generation 155 best chromosome has a length of 925.2670036412302
+Generation 155 chromosomes have an average length of 991.6773111034787
+
+
+Generation 156 best chromosome has a length of 925.2670036412302
+Generation 156 chromosomes have an average length of 993.6914692235688
+
+
+Generation 157 best chromosome has a length of 925.2670036412302
+Generation 157 chromosomes have an average length of 1024.5886032327737
+
+
+Generation 158 best chromosome has a length of 925.2670036412302
+Generation 158 chromosomes have an average length of 967.2604428217825
+
+
+Generation 159 best chromosome has a length of 925.2670036412302
+Generation 159 chromosomes have an average length of 958.1737364163905
+
+
+Generation 160 best chromosome has a length of 925.2670036412302
+Generation 160 chromosomes have an average length of 957.6720819650454
+
+
+Generation 161 best chromosome has a length of 925.2670036412302
+Generation 161 chromosomes have an average length of 954.5308775087922
+
+
+Generation 162 best chromosome has a length of 925.2670036412302
+Generation 162 chromosomes have an average length of 956.6250604066286
+
+
+Generation 163 best chromosome has a length of 925.2670036412302
+Generation 163 chromosomes have an average length of 942.6997675487988
+
+
+Generation 164 best chromosome has a length of 925.2670036412302
+Generation 164 chromosomes have an average length of 947.6804739717794
+
+
+Generation 165 best chromosome has a length of 925.2670036412302
+Generation 165 chromosomes have an average length of 946.0078571343981
+
+
+Generation 166 best chromosome has a length of 925.2670036412302
+Generation 166 chromosomes have an average length of 939.2600356765959
+
+
+Generation 167 best chromosome has a length of 925.2670036412302
+Generation 167 chromosomes have an average length of 935.9219258168575
+
+
+Generation 168 best chromosome has a length of 925.2670036412302
+Generation 168 chromosomes have an average length of 937.2946967373056
+
+
+Generation 169 best chromosome has a length of 925.2670036412302
+Generation 169 chromosomes have an average length of 945.4148748066198
+
+
+Generation 170 best chromosome has a length of 925.2670036412302
+Generation 170 chromosomes have an average length of 941.3070312278143
+
+
+Generation 171 best chromosome has a length of 925.2670036412302
+Generation 171 chromosomes have an average length of 937.59449884451
+
+
+Generation 172 best chromosome has a length of 925.2670036412302
+Generation 172 chromosomes have an average length of 935.8409544540099
+
+
+Generation 173 best chromosome has a length of 925.2670036412302
+Generation 173 chromosomes have an average length of 938.6146062137072
+
+
+Generation 174 best chromosome has a length of 925.2670036412302
+Generation 174 chromosomes have an average length of 958.3100261235801
+
+
+Generation 175 best chromosome has a length of 925.2670036412302
+Generation 175 chromosomes have an average length of 941.3508374342813
+
+
+Generation 176 best chromosome has a length of 925.2670036412302
+Generation 176 chromosomes have an average length of 949.6966650526368
+
+
+Generation 177 best chromosome has a length of 925.2670036412302
+Generation 177 chromosomes have an average length of 942.9341508929111
+
+
+Generation 178 best chromosome has a length of 925.2670036412302
+Generation 178 chromosomes have an average length of 942.0890560615474
+
+
+Generation 179 best chromosome has a length of 925.2670036412302
+Generation 179 chromosomes have an average length of 950.6561292182112
+
+
+Generation 180 best chromosome has a length of 925.2670036412302
+Generation 180 chromosomes have an average length of 941.5235189102826
+
+
+Generation 181 best chromosome has a length of 925.2670036412302
+Generation 181 chromosomes have an average length of 938.297765731732
+
+
+Generation 182 best chromosome has a length of 925.2670036412302
+Generation 182 chromosomes have an average length of 961.3975805577103
+
+
+Generation 183 best chromosome has a length of 903.1680645169644
+Generation 183 chromosomes have an average length of 941.0381899877801
+
+
+Generation 184 best chromosome has a length of 903.1680645169644
+Generation 184 chromosomes have an average length of 954.6301820218192
+
+
+Generation 185 best chromosome has a length of 903.1680645169644
+Generation 185 chromosomes have an average length of 944.845550625999
+
+
+Generation 186 best chromosome has a length of 903.1680645169644
+Generation 186 chromosomes have an average length of 950.5739489792112
+
+
+Generation 187 best chromosome has a length of 903.1680645169644
+Generation 187 chromosomes have an average length of 970.4465006785122
+
+
+Generation 188 best chromosome has a length of 903.1680645169644
+Generation 188 chromosomes have an average length of 950.3281546645262
+
+
+Generation 189 best chromosome has a length of 903.1680645169644
+Generation 189 chromosomes have an average length of 934.7320104820484
+
+
+Generation 190 best chromosome has a length of 903.1680645169644
+Generation 190 chromosomes have an average length of 935.0164964872448
+
+
+Generation 191 best chromosome has a length of 903.1680645169644
+Generation 191 chromosomes have an average length of 951.8200087315274
+
+
+Generation 192 best chromosome has a length of 903.1680645169644
+Generation 192 chromosomes have an average length of 946.251161834235
+
+
+Generation 193 best chromosome has a length of 903.1680645169644
+Generation 193 chromosomes have an average length of 940.9235225817949
+
+
+Generation 194 best chromosome has a length of 903.1680645169644
+Generation 194 chromosomes have an average length of 938.0621519865387
+
+
+Generation 195 best chromosome has a length of 903.1680645169644
+Generation 195 chromosomes have an average length of 940.8310195238523
+
+
+Generation 196 best chromosome has a length of 903.1680645169644
+Generation 196 chromosomes have an average length of 943.1441213963062
+
+
+Generation 197 best chromosome has a length of 903.1680645169644
+Generation 197 chromosomes have an average length of 952.7604084058639
+
+
+Generation 198 best chromosome has a length of 903.1680645169644
+Generation 198 chromosomes have an average length of 940.0757528250911
+
+
+Generation 199 best chromosome has a length of 903.1680645169644
+Generation 199 chromosomes have an average length of 948.4742582938305
+
+
+Generation 200 best chromosome has a length of 903.1680645169644
+Generation 200 chromosomes have an average length of 955.3332933099343
+
+
+Generation 201 best chromosome has a length of 903.1680645169644
+Generation 201 chromosomes have an average length of 941.0171697889788
+
+
+Generation 202 best chromosome has a length of 903.1680645169644
+Generation 202 chromosomes have an average length of 956.5702303845368
+
+
+Generation 203 best chromosome has a length of 903.1680645169644
+Generation 203 chromosomes have an average length of 956.5648357260499
+
+
+Generation 204 best chromosome has a length of 903.1680645169644
+Generation 204 chromosomes have an average length of 960.0052696528624
+
+
+Generation 205 best chromosome has a length of 903.1680645169644
+Generation 205 chromosomes have an average length of 945.4208789681743
+
+
+Generation 206 best chromosome has a length of 903.1680645169644
+Generation 206 chromosomes have an average length of 968.4402864066589
+
+
+Generation 207 best chromosome has a length of 903.1680645169644
+Generation 207 chromosomes have an average length of 936.825589671353
+
+
+Generation 208 best chromosome has a length of 903.1680645169644
+Generation 208 chromosomes have an average length of 935.8273529003351
+
+
+Generation 209 best chromosome has a length of 903.1680645169644
+Generation 209 chromosomes have an average length of 962.2035205692922
+
+
+Generation 210 best chromosome has a length of 903.1680645169644
+Generation 210 chromosomes have an average length of 949.6290031633796
+
+
+Generation 211 best chromosome has a length of 903.1680645169644
+Generation 211 chromosomes have an average length of 949.980536707638
+
+
+Generation 212 best chromosome has a length of 903.1680645169644
+Generation 212 chromosomes have an average length of 944.6473182558036
+
+
+Generation 213 best chromosome has a length of 903.1680645169644
+Generation 213 chromosomes have an average length of 939.2493436707009
+
+
+Generation 214 best chromosome has a length of 903.1680645169644
+Generation 214 chromosomes have an average length of 934.9581751613198
+
+
+Generation 215 best chromosome has a length of 903.1680645169644
+Generation 215 chromosomes have an average length of 932.1508459481652
+
+
+Generation 216 best chromosome has a length of 903.1680645169644
+Generation 216 chromosomes have an average length of 936.819417679314
+
+
+Generation 217 best chromosome has a length of 903.1680645169644
+Generation 217 chromosomes have an average length of 944.5988427430229
+
+
+Generation 218 best chromosome has a length of 903.1680645169644
+Generation 218 chromosomes have an average length of 938.7231548282173
+
+
+Generation 219 best chromosome has a length of 903.1680645169644
+Generation 219 chromosomes have an average length of 937.6900313259067
+
+
+Generation 220 best chromosome has a length of 903.1680645169644
+Generation 220 chromosomes have an average length of 938.4309941006513
+
+
+Generation 221 best chromosome has a length of 903.1680645169644
+Generation 221 chromosomes have an average length of 940.1037234810876
+
+
+Generation 222 best chromosome has a length of 903.1680645169644
+Generation 222 chromosomes have an average length of 954.1432121172089
+
+
+Generation 223 best chromosome has a length of 903.1680645169644
+Generation 223 chromosomes have an average length of 938.4875788287188
+
+
+Generation 224 best chromosome has a length of 903.1680645169644
+Generation 224 chromosomes have an average length of 925.465384574591
+
+
+Generation 225 best chromosome has a length of 903.1680645169644
+Generation 225 chromosomes have an average length of 950.0773153620012
+
+
+Generation 226 best chromosome has a length of 903.1680645169644
+Generation 226 chromosomes have an average length of 931.3065033869938
+
+
+Generation 227 best chromosome has a length of 903.1680645169644
+Generation 227 chromosomes have an average length of 937.1635828422096
+
+
+Generation 228 best chromosome has a length of 903.1680645169644
+Generation 228 chromosomes have an average length of 936.0508110844083
+
+
+Generation 229 best chromosome has a length of 903.1680645169644
+Generation 229 chromosomes have an average length of 943.0582038388283
+
+
+Generation 230 best chromosome has a length of 903.1680645169644
+Generation 230 chromosomes have an average length of 939.8498212693988
+
+
+Generation 231 best chromosome has a length of 903.1680645169644
+Generation 231 chromosomes have an average length of 939.9243313967986
+
+
+Generation 232 best chromosome has a length of 903.1680645169644
+Generation 232 chromosomes have an average length of 958.2668084941088
+
+
+Generation 233 best chromosome has a length of 903.1680645169644
+Generation 233 chromosomes have an average length of 938.1523095383617
+
+
+Generation 234 best chromosome has a length of 903.1680645169644
+Generation 234 chromosomes have an average length of 927.3521784656004
+
+
+Generation 235 best chromosome has a length of 903.1680645169644
+Generation 235 chromosomes have an average length of 936.3473503480226
+
+
+Generation 236 best chromosome has a length of 903.1680645169644
+Generation 236 chromosomes have an average length of 934.0866163423373
+
+
+Generation 237 best chromosome has a length of 903.1680645169644
+Generation 237 chromosomes have an average length of 941.9508257734002
+
+
+Generation 238 best chromosome has a length of 903.1680645169644
+Generation 238 chromosomes have an average length of 941.2802886287496
+
+
+Generation 239 best chromosome has a length of 903.1680645169644
+Generation 239 chromosomes have an average length of 945.5812415874793
+
+
+Generation 240 best chromosome has a length of 900.0339359526267
+Generation 240 chromosomes have an average length of 971.8273242858519
+
+
+Generation 241 best chromosome has a length of 900.0339359526267
+Generation 241 chromosomes have an average length of 959.5530917904845
+
+
+Generation 242 best chromosome has a length of 900.0339359526267
+Generation 242 chromosomes have an average length of 933.9872228099182
+
+
+Generation 243 best chromosome has a length of 900.0339359526267
+Generation 243 chromosomes have an average length of 969.0032185602361
+
+
+Generation 244 best chromosome has a length of 900.0339359526267
+Generation 244 chromosomes have an average length of 953.6910454867434
+
+
+Generation 245 best chromosome has a length of 900.0339359526267
+Generation 245 chromosomes have an average length of 978.445594060156
+
+
+Generation 246 best chromosome has a length of 892.9827118351091
+Generation 246 chromosomes have an average length of 952.0895402359889
+
+
+Generation 247 best chromosome has a length of 892.9827118351091
+Generation 247 chromosomes have an average length of 953.8409668834415
+
+
+Generation 248 best chromosome has a length of 892.9827118351091
+Generation 248 chromosomes have an average length of 951.0892924189468
+
+
+Generation 249 best chromosome has a length of 892.9827118351091
+Generation 249 chromosomes have an average length of 947.6329990889603
+
+
+Generation 250 best chromosome has a length of 892.9827118351091
+Generation 250 chromosomes have an average length of 929.2983578880564
+
+
+Generation 251 best chromosome has a length of 892.9827118351091
+Generation 251 chromosomes have an average length of 935.7523302358945
+
+
+Generation 252 best chromosome has a length of 892.9827118351091
+Generation 252 chromosomes have an average length of 924.6300113993171
+
+
+Generation 253 best chromosome has a length of 892.9827118351091
+Generation 253 chromosomes have an average length of 930.8173720542671
+
+
+Generation 254 best chromosome has a length of 892.9827118351091
+Generation 254 chromosomes have an average length of 936.1296248442317
+
+
+Generation 255 best chromosome has a length of 892.9827118351091
+Generation 255 chromosomes have an average length of 955.195775485482
+
+
+Generation 256 best chromosome has a length of 892.9827118351091
+Generation 256 chromosomes have an average length of 940.2741969640238
+
+
+Generation 257 best chromosome has a length of 892.9827118351091
+Generation 257 chromosomes have an average length of 926.6777501553
+
+
+Generation 258 best chromosome has a length of 892.9827118351091
+Generation 258 chromosomes have an average length of 920.0760027766381
+
+
+Generation 259 best chromosome has a length of 892.9827118351091
+Generation 259 chromosomes have an average length of 930.9212181291757
+
+
+Generation 260 best chromosome has a length of 892.9827118351091
+Generation 260 chromosomes have an average length of 928.8945510768111
+
+
+Generation 261 best chromosome has a length of 892.9827118351091
+Generation 261 chromosomes have an average length of 940.9973781394888
+
+
+Generation 262 best chromosome has a length of 892.9827118351091
+Generation 262 chromosomes have an average length of 962.3330924143638
+
+
+Generation 263 best chromosome has a length of 892.9827118351091
+Generation 263 chromosomes have an average length of 958.0151106907653
+
+
+Generation 264 best chromosome has a length of 892.9827118351091
+Generation 264 chromosomes have an average length of 949.40813003124
+
+
+Generation 265 best chromosome has a length of 892.9827118351091
+Generation 265 chromosomes have an average length of 938.7660624681528
+
+
+Generation 266 best chromosome has a length of 892.9827118351091
+Generation 266 chromosomes have an average length of 958.0790768248181
+
+
+Generation 267 best chromosome has a length of 888.6419506965533
+Generation 267 chromosomes have an average length of 968.966307154947
+
+
+Generation 268 best chromosome has a length of 863.1623887846122
+Generation 268 chromosomes have an average length of 980.8603385523711
+
+
+Generation 269 best chromosome has a length of 863.1623887846122
+Generation 269 chromosomes have an average length of 966.9669466561946
+
+
+Generation 270 best chromosome has a length of 863.1623887846122
+Generation 270 chromosomes have an average length of 1004.1513319629389
+
+
+Generation 271 best chromosome has a length of 863.1623887846122
+Generation 271 chromosomes have an average length of 998.7304356774191
+
+
+Generation 272 best chromosome has a length of 863.1623887846122
+Generation 272 chromosomes have an average length of 1044.4361255666597
+
+
+Generation 273 best chromosome has a length of 863.1623887846122
+Generation 273 chromosomes have an average length of 1024.9710538698307
+
+
+Generation 274 best chromosome has a length of 863.1623887846122
+Generation 274 chromosomes have an average length of 1015.8797182714695
+
+
+Generation 275 best chromosome has a length of 863.1623887846122
+Generation 275 chromosomes have an average length of 977.439957090737
+
+
+Generation 276 best chromosome has a length of 863.1623887846122
+Generation 276 chromosomes have an average length of 916.6968300406573
+
+
+Generation 277 best chromosome has a length of 863.1623887846122
+Generation 277 chromosomes have an average length of 928.032701573222
+
+
+Generation 278 best chromosome has a length of 863.1623887846122
+Generation 278 chromosomes have an average length of 977.1913950203862
+
+
+Generation 279 best chromosome has a length of 863.1623887846122
+Generation 279 chromosomes have an average length of 934.9958911584604
+
+
+Generation 280 best chromosome has a length of 856.1080850653423
+Generation 280 chromosomes have an average length of 907.1423904526047
+
+
+Generation 281 best chromosome has a length of 856.1080850653423
+Generation 281 chromosomes have an average length of 901.6224847118046
+
+
+Generation 282 best chromosome has a length of 856.1080850653423
+Generation 282 chromosomes have an average length of 895.5559781883226
+
+
+Generation 283 best chromosome has a length of 856.1080850653423
+Generation 283 chromosomes have an average length of 889.2806277513806
+
+
+Generation 284 best chromosome has a length of 856.1080850653423
+Generation 284 chromosomes have an average length of 919.7202695162579
+
+
+Generation 285 best chromosome has a length of 847.4543222663253
+Generation 285 chromosomes have an average length of 920.8932568722136
+
+
+Generation 286 best chromosome has a length of 847.4543222663253
+Generation 286 chromosomes have an average length of 891.653190103535
+
+
+Generation 287 best chromosome has a length of 847.4543222663253
+Generation 287 chromosomes have an average length of 881.152489290159
+
+
+Generation 288 best chromosome has a length of 840.9571326622909
+Generation 288 chromosomes have an average length of 886.2872150593254
+
+
+Generation 289 best chromosome has a length of 840.9571326622909
+Generation 289 chromosomes have an average length of 887.3827541357037
+
+
+Generation 290 best chromosome has a length of 840.9571326622909
+Generation 290 chromosomes have an average length of 893.5579502227076
+
+
+Generation 291 best chromosome has a length of 840.9571326622909
+Generation 291 chromosomes have an average length of 864.6252417066025
+
+
+Generation 292 best chromosome has a length of 840.9571326622909
+Generation 292 chromosomes have an average length of 858.7497470857331
+
+
+Generation 293 best chromosome has a length of 840.9571326622909
+Generation 293 chromosomes have an average length of 871.6501265352216
+
+
+Generation 294 best chromosome has a length of 840.9571326622909
+Generation 294 chromosomes have an average length of 861.8734175690291
+
+
+Generation 295 best chromosome has a length of 840.9571326622909
+Generation 295 chromosomes have an average length of 857.513164188704
+
+
+Generation 296 best chromosome has a length of 840.9571326622909
+Generation 296 chromosomes have an average length of 854.1640063777401
+
+
+Generation 297 best chromosome has a length of 840.9571326622909
+Generation 297 chromosomes have an average length of 858.2465105295067
+
+
+Generation 298 best chromosome has a length of 840.9571326622909
+Generation 298 chromosomes have an average length of 858.3364628057657
+
+
+Generation 299 best chromosome has a length of 840.9571326622909
+Generation 299 chromosomes have an average length of 865.6671912772241
+
+
+Generation 300 best chromosome has a length of 840.9571326622909
+Generation 300 chromosomes have an average length of 863.4449977237347
+
+
+Generation 301 best chromosome has a length of 840.9571326622909
+Generation 301 chromosomes have an average length of 875.1360367884517
+
+
+Generation 302 best chromosome has a length of 840.9571326622909
+Generation 302 chromosomes have an average length of 849.2549483199905
+
+
+Generation 303 best chromosome has a length of 840.9571326622909
+Generation 303 chromosomes have an average length of 866.5344257664487
+
+
+Generation 304 best chromosome has a length of 840.9571326622909
+Generation 304 chromosomes have an average length of 869.9793374893424
+
+
+Generation 305 best chromosome has a length of 840.9571326622909
+Generation 305 chromosomes have an average length of 864.7882021155943
+
+
+Generation 306 best chromosome has a length of 840.9571326622909
+Generation 306 chromosomes have an average length of 866.2274046932438
+
+
+Generation 307 best chromosome has a length of 840.9571326622909
+Generation 307 chromosomes have an average length of 859.5867691293516
+
+
+Generation 308 best chromosome has a length of 840.9571326622909
+Generation 308 chromosomes have an average length of 865.9405357021918
+
+
+Generation 309 best chromosome has a length of 840.9571326622909
+Generation 309 chromosomes have an average length of 854.6411178315843
+
+
+Generation 310 best chromosome has a length of 840.9571326622909
+Generation 310 chromosomes have an average length of 858.6676642253129
+
+
+Generation 311 best chromosome has a length of 840.9571326622909
+Generation 311 chromosomes have an average length of 875.3516457734489
+
+
+Generation 312 best chromosome has a length of 840.9571326622909
+Generation 312 chromosomes have an average length of 860.6558685459754
+
+
+Generation 313 best chromosome has a length of 840.9571326622909
+Generation 313 chromosomes have an average length of 852.6637840455267
+
+
+Generation 314 best chromosome has a length of 840.9571326622909
+Generation 314 chromosomes have an average length of 853.8829486827478
+
+
+Generation 315 best chromosome has a length of 840.9571326622909
+Generation 315 chromosomes have an average length of 881.7669286789323
+
+
+Generation 316 best chromosome has a length of 840.9571326622909
+Generation 316 chromosomes have an average length of 860.2684075971517
+
+
+Generation 317 best chromosome has a length of 840.9571326622909
+Generation 317 chromosomes have an average length of 875.6204330015172
+
+
+Generation 318 best chromosome has a length of 840.9571326622909
+Generation 318 chromosomes have an average length of 860.3021458089739
+
+
+Generation 319 best chromosome has a length of 840.9571326622909
+Generation 319 chromosomes have an average length of 862.5433949009758
+
+
+Generation 320 best chromosome has a length of 840.9571326622909
+Generation 320 chromosomes have an average length of 859.2521067650407
+
+
+Generation 321 best chromosome has a length of 840.9571326622909
+Generation 321 chromosomes have an average length of 857.3004822567881
+
+
+Generation 322 best chromosome has a length of 840.9571326622909
+Generation 322 chromosomes have an average length of 855.0439153755161
+
+
+Generation 323 best chromosome has a length of 840.9571326622909
+Generation 323 chromosomes have an average length of 856.5369387185623
+
+
+Generation 324 best chromosome has a length of 840.9571326622909
+Generation 324 chromosomes have an average length of 862.344188727973
+
+
+Generation 325 best chromosome has a length of 840.9571326622909
+Generation 325 chromosomes have an average length of 883.6412220991957
+
+
+Generation 326 best chromosome has a length of 840.9571326622909
+Generation 326 chromosomes have an average length of 864.8907918282117
+
+
+Generation 327 best chromosome has a length of 840.9571326622909
+Generation 327 chromosomes have an average length of 856.880121882085
+
+
+Generation 328 best chromosome has a length of 840.9571326622909
+Generation 328 chromosomes have an average length of 861.5064965973891
+
+
+Generation 329 best chromosome has a length of 840.9571326622909
+Generation 329 chromosomes have an average length of 871.1863189761707
+
+
+Generation 330 best chromosome has a length of 840.9571326622909
+Generation 330 chromosomes have an average length of 864.6506186630454
+
+
+Generation 331 best chromosome has a length of 840.9571326622909
+Generation 331 chromosomes have an average length of 856.7357918463371
+
+
+Generation 332 best chromosome has a length of 840.9571326622909
+Generation 332 chromosomes have an average length of 862.0266672939291
+
+
+Generation 333 best chromosome has a length of 840.9571326622909
+Generation 333 chromosomes have an average length of 869.8831334227358
+
+
+Generation 334 best chromosome has a length of 840.9571326622909
+Generation 334 chromosomes have an average length of 856.6725327481676
+
+
+Generation 335 best chromosome has a length of 840.9571326622909
+Generation 335 chromosomes have an average length of 872.152259589628
+
+
+Generation 336 best chromosome has a length of 840.9571326622909
+Generation 336 chromosomes have an average length of 855.9287594349777
+
+
+Generation 337 best chromosome has a length of 840.9571326622909
+Generation 337 chromosomes have an average length of 864.9063383366065
+
+
+Generation 338 best chromosome has a length of 840.9571326622909
+Generation 338 chromosomes have an average length of 861.5474906846943
+
+
+Generation 339 best chromosome has a length of 840.9571326622909
+Generation 339 chromosomes have an average length of 864.5870761417038
+
+
+Generation 340 best chromosome has a length of 840.9571326622909
+Generation 340 chromosomes have an average length of 851.8986315619417
+
+
+Generation 341 best chromosome has a length of 840.9571326622909
+Generation 341 chromosomes have an average length of 866.0017667867196
+
+
+Generation 342 best chromosome has a length of 840.9571326622909
+Generation 342 chromosomes have an average length of 858.9725969814467
+
+
+Generation 343 best chromosome has a length of 840.9571326622909
+Generation 343 chromosomes have an average length of 872.0999683954327
+
+
+Generation 344 best chromosome has a length of 840.9571326622909
+Generation 344 chromosomes have an average length of 869.7674299462622
+
+
+Generation 345 best chromosome has a length of 840.9571326622909
+Generation 345 chromosomes have an average length of 874.7033486634484
+
+
+Generation 346 best chromosome has a length of 840.9571326622909
+Generation 346 chromosomes have an average length of 865.2884288234638
+
+
+Generation 347 best chromosome has a length of 840.9571326622909
+Generation 347 chromosomes have an average length of 871.6670785394357
+
+
+Generation 348 best chromosome has a length of 840.9571326622909
+Generation 348 chromosomes have an average length of 857.217963146879
+
+
+Generation 349 best chromosome has a length of 840.9571326622909
+Generation 349 chromosomes have an average length of 873.3186942531112
+
+
+Generation 350 best chromosome has a length of 840.9571326622909
+Generation 350 chromosomes have an average length of 863.5386731626743
+
+
+Generation 351 best chromosome has a length of 840.9571326622909
+Generation 351 chromosomes have an average length of 859.4631499603726
+
+
+Generation 352 best chromosome has a length of 840.9571326622909
+Generation 352 chromosomes have an average length of 859.8436063734921
+
+
+Generation 353 best chromosome has a length of 840.9035086985133
+Generation 353 chromosomes have an average length of 855.7818686346702
+
+
+Generation 354 best chromosome has a length of 840.9035086985133
+Generation 354 chromosomes have an average length of 868.4928385532462
+
+
+Generation 355 best chromosome has a length of 840.9035086985133
+Generation 355 chromosomes have an average length of 868.036699862971
+
+
+Generation 356 best chromosome has a length of 840.9035086985133
+Generation 356 chromosomes have an average length of 858.3425918242225
+
+
+Generation 357 best chromosome has a length of 840.9035086985133
+Generation 357 chromosomes have an average length of 886.2298236170386
+
+
+Generation 358 best chromosome has a length of 840.9035086985133
+Generation 358 chromosomes have an average length of 863.0289105655728
+
+
+Generation 359 best chromosome has a length of 840.9035086985133
+Generation 359 chromosomes have an average length of 861.4218761539885
+
+
+Generation 360 best chromosome has a length of 840.9035086985133
+Generation 360 chromosomes have an average length of 854.4631744611874
+
+
+Generation 361 best chromosome has a length of 840.9035086985133
+Generation 361 chromosomes have an average length of 867.0162654524582
+
+
+Generation 362 best chromosome has a length of 840.9035086985133
+Generation 362 chromosomes have an average length of 857.3246561517232
+
+
+Generation 363 best chromosome has a length of 840.9035086985133
+Generation 363 chromosomes have an average length of 856.6452742579248
+
+
+Generation 364 best chromosome has a length of 840.9035086985133
+Generation 364 chromosomes have an average length of 867.3205029279397
+
+
+Generation 365 best chromosome has a length of 840.9035086985133
+Generation 365 chromosomes have an average length of 865.1633058093568
+
+
+Generation 366 best chromosome has a length of 840.9035086985133
+Generation 366 chromosomes have an average length of 854.4161912023652
+
+
+Generation 367 best chromosome has a length of 840.9035086985133
+Generation 367 chromosomes have an average length of 861.7475023373304
+
+
+Generation 368 best chromosome has a length of 840.9035086985133
+Generation 368 chromosomes have an average length of 861.0825846133253
+
+
+Generation 369 best chromosome has a length of 840.9035086985133
+Generation 369 chromosomes have an average length of 857.4973403835859
+
+
+Generation 370 best chromosome has a length of 840.9035086985133
+Generation 370 chromosomes have an average length of 856.0348565605469
+
+
+Generation 371 best chromosome has a length of 840.9035086985133
+Generation 371 chromosomes have an average length of 857.4305040704922
+
+
+Generation 372 best chromosome has a length of 840.9035086985133
+Generation 372 chromosomes have an average length of 859.8999449416154
+
+
+Generation 373 best chromosome has a length of 840.9035086985133
+Generation 373 chromosomes have an average length of 867.4862693552425
+
+
+Generation 374 best chromosome has a length of 840.9035086985133
+Generation 374 chromosomes have an average length of 875.1118270603363
+
+
+Generation 375 best chromosome has a length of 840.9035086985133
+Generation 375 chromosomes have an average length of 862.1336679682955
+
+
+Generation 376 best chromosome has a length of 840.9035086985133
+Generation 376 chromosomes have an average length of 858.3091557119773
+
+
+Generation 377 best chromosome has a length of 840.9035086985133
+Generation 377 chromosomes have an average length of 859.1532775289193
+
+
+Generation 378 best chromosome has a length of 840.9035086985133
+Generation 378 chromosomes have an average length of 868.1613595800497
+
+
+Generation 379 best chromosome has a length of 840.9035086985133
+Generation 379 chromosomes have an average length of 864.5399440124557
+
+
+Generation 380 best chromosome has a length of 840.9035086985133
+Generation 380 chromosomes have an average length of 866.1865613228371
+
+
+Generation 381 best chromosome has a length of 840.9035086985133
+Generation 381 chromosomes have an average length of 851.7303708825326
+
+
+Generation 382 best chromosome has a length of 840.9035086985133
+Generation 382 chromosomes have an average length of 861.3184436351065
+
+
+Generation 383 best chromosome has a length of 840.9035086985133
+Generation 383 chromosomes have an average length of 869.6487390492525
+
+
+Generation 384 best chromosome has a length of 830.6447169223684
+Generation 384 chromosomes have an average length of 862.626493822511
+
+
+Generation 385 best chromosome has a length of 830.6447169223684
+Generation 385 chromosomes have an average length of 863.6135873083614
+
+
+Generation 386 best chromosome has a length of 830.6447169223684
+Generation 386 chromosomes have an average length of 856.3262463974714
+
+
+Generation 387 best chromosome has a length of 830.6447169223684
+Generation 387 chromosomes have an average length of 859.8277083199337
+
+
+Generation 388 best chromosome has a length of 830.6447169223684
+Generation 388 chromosomes have an average length of 874.2156881721321
+
+
+Generation 389 best chromosome has a length of 830.6447169223684
+Generation 389 chromosomes have an average length of 868.7051767662902
+
+
+Generation 390 best chromosome has a length of 830.6447169223684
+Generation 390 chromosomes have an average length of 860.9258741102846
+
+
+Generation 391 best chromosome has a length of 828.5434240594655
+Generation 391 chromosomes have an average length of 856.7626407945656
+
+
+Generation 392 best chromosome has a length of 828.5434240594655
+Generation 392 chromosomes have an average length of 875.0918431840738
+
+
+Generation 393 best chromosome has a length of 828.5434240594655
+Generation 393 chromosomes have an average length of 894.6129782070103
+
+
+Generation 394 best chromosome has a length of 828.5434240594655
+Generation 394 chromosomes have an average length of 905.0073103403344
+
+
+Generation 395 best chromosome has a length of 828.5434240594655
+Generation 395 chromosomes have an average length of 866.188866560246
+
+
+Generation 396 best chromosome has a length of 827.6393211282689
+Generation 396 chromosomes have an average length of 867.2440817261707
+
+
+Generation 397 best chromosome has a length of 827.6393211282689
+Generation 397 chromosomes have an average length of 851.177760168034
+
+
+Generation 398 best chromosome has a length of 827.6393211282689
+Generation 398 chromosomes have an average length of 856.9400334569057
+
+
+Generation 399 best chromosome has a length of 827.6393211282689
+Generation 399 chromosomes have an average length of 854.3332079688479
+
+
+Generation 400 best chromosome has a length of 827.6393211282689
+Generation 400 chromosomes have an average length of 873.9703575550708
+
+
+Max Value: 1123.72808992105
+Min Value: 827.6393211282689
+Median Value: 841.014984416246
+Standard Deviation Value: 54.24138808248679

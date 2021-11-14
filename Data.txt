@@ -1,0 +1,23 @@
+Crossover Method: 2 Point Crossover 
+Tournament Size: 2
+Generation Size: 2
+Number of generations: 2
+Crossover Rate: 100.0% 
+Mutation Rate: 100.0% 
+Number of Elites: 1
+Random Seed: 1.0
+
+
+
+Generation 1 best chromosome has a length of 174.91570795871633
+Generation 1 chromosomes have an average length of 183.2758675768474
+
+
+Generation 2 best chromosome has a length of 174.91570795871633
+Generation 2 chromosomes have an average length of 189.24800882857974
+
+
+Max Value: 191.5392680733254
+Min Value: 174.91570795871633
+Median Value: 191.5392680733254
+Standard Deviation Value: 8.425002307304613
